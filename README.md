@@ -1,0 +1,1 @@
+# AWSServerless-Aurora-RDS-SecretsManager
